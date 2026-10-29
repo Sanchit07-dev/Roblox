@@ -99,3 +99,4 @@ AnomalyConfig.Settings = {
 }
 
 return AnomalyConfig
+

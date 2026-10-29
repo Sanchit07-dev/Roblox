@@ -263,3 +263,4 @@ end)
 task.delay(2, function()
 	startPreparationPhase()
 end)
+
